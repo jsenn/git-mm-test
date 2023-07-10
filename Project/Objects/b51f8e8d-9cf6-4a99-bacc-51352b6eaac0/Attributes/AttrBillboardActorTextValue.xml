@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<AttrBillboardActorTextValue FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Data v="General Info
+------------
+The git repo that stores version information is currently placed alonside the
+project (.mm file), in a directory called .mmvc. This means that each project
+needs its own parent directory to avoid collisions with other projects.
+
+All version control commands are of the form Ctrl+Alt+&lt;key&gt;. See below for a
+description of each available command.
+
+Clone (Ctrl+Alt+N)
+------------------
+&quot;N&quot; for New.
+
+Use this after creating a new MassMotion project to avoid collisions.
+Make sure you put the repo into its own directory. After successful cloning,
+save your project beside the new .mmvc repo directory.
+
+Commit (Ctrl+Alt+C)
+-------------------
+Creates a new git commit containing all recent changes (equivalent to running
+`git commit -a` from the command line). Note that you have to save the project
+before committing changes.
+
+Status (Ctrl+Alt+S)
+-------------------
+Equivalent to running `git status` from the command line. Will show a report
+that translates git-level info into MassMotion-level info (i.e. objects and attributes).
+
+Pull (Ctrl+Alt+I)
+-----------------
+&quot;I&quot; for &quot;In&quot; (P is overloaded).
+
+This will pull in the latest changes from the remote. If no remote has been
+configured, it will prompt for a URL. If your remote is GitHub (which it is
+if you&apos;re reading this!) it will also prompt you for your username and
+password/access token.
+
+Currently all conflicts are automatically resolved in favour of the remote, so
+your changes will be clobbered.
+
+Push (Ctrl+Alt+O)
+-----------------
+&quot;O&quot; for &quot;Output&quot; (P is overloaded).
+
+Will push your most recent commits to the remote. If no remote has been configured,
+it will prompt for a URL. If your remote is GitHub (which it is if you&apos;re reading
+this!) it will also prompt you for your username and password/access token.
+
+Log (Ctrl+Alt+L)
+----------------
+Show a report of all commits in this repository so far (currently unimplemented).
+
+Change Remote URL (Ctrl+Alt+R)
+------------------------------
+If for whatever reason you need to change the currently configured remote URL, you
+can use this command to do so.
+
+Configuring a Remote
+--------------------
+The easiest way to set up a new remote is to use GitHub. When you do so,
+make sure that it is created &quot;bare&quot;, meaning no README, no .gitignore, no nothing.
+Once you do that, save your project, create a commit (if you haven&apos;t already), and
+Press Ctrl+Alt+O to push (see below).
+
+Of course, you&apos;re free to mess around with this project (ask John to add you as a
+collaborator on GitHub). The URL is https://github.com/jsenn/git-mm-test." t="3"/>
+    <Type v="DataTypeString" t="3"/>
+</AttrBillboardActorTextValue>

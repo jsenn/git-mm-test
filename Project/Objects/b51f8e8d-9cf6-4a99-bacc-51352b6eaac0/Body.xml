@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<Body FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Geometry>
+        <Geometry0>
+            <Faces v="[0,2,3,0,3,1]" t="1"/>
+            <GeometryType v="TextBoxGeometry" t="3"/>
+            <Length v="2.000000" t="2"/>
+            <Plane v="[-7.418165,0.500000,-3.885114,0.000000,-0.000000,-1.000000,1.000000,0.000000,0.000000]" t="2"/>
+            <VertexOrder v="[0,1,2,3]" t="1"/>
+            <Vertices v="[-8.358843,0.500000,-2.885114,-8.358843,0.500000,-4.885114,-6.477488,0.500000,-2.885114,-6.477488,0.500000,-4.885114]" t="2"/>
+            <Width v="1.881356" t="2"/>
+        </Geometry0>
+    </Geometry>
+</Body>
