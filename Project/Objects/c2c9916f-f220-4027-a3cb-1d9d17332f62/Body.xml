@@ -3,9 +3,9 @@
 <Body FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
     <Geometry>
         <Geometry0>
-            <Faces v="[0,1,2,0,2,3]" t="1"/>
+            <Faces v="[0,1,2]" t="1"/>
             <GeometryType v="MeshGeometry" t="3"/>
-            <Vertices v="[-5.000000,0.000000,-5.000000,-5.000000,0.000000,5.000000,5.000000,0.000000,5.000000,5.000000,0.000000,-5.000000]" t="2"/>
+            <Vertices v="[-5.000000,0.000000,-5.000000,5.000000,0.000000,5.000000,5.000000,0.000000,-5.000000]" t="2"/>
         </Geometry0>
     </Geometry>
 </Body>
