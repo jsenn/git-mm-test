@@ -11,6 +11,26 @@ The name and email used to identify you in commits can be configured in
 Application Preferences. You will be prompted for these the first time they&apos;re
 needed, if not already set.
 
+Errors and Debugging
+--------------------
+If you hit an error, you will probably get an error dialog. If you hit an
+assert, that&apos;s probably a bug or edge case that isn&apos;t handled yet.
+
+The Debug Console will usually contain more info that can help you figure
+out what went wrong.
+
+Configuring a Remote
+--------------------
+The easiest way to set up a new remote is to use GitHub. When you do so,
+make sure that it is created &quot;bare&quot;, meaning no README, no .gitignore, no nothing.
+Once you do that, save your project, create a commit (if you haven&apos;t already), and
+Press Ctrl+Alt+O to push (see below).
+
+Of course, you&apos;re free to mess around with this project (ask John to add you as a
+collaborator on GitHub). The URL is https://github.com/jsenn/git-mm-test.
+
+Commands
+--------
 All version control commands are of the form Ctrl+Alt+&lt;key&gt;. See below for a
 description of each available command.
 
@@ -60,16 +80,6 @@ Show a report of all commits in this repository so far (currently unimplemented)
 Change Remote URL (Ctrl+Alt+R)
 ------------------------------
 If for whatever reason you need to change the currently configured remote URL, you
-can use this command to do so.
-
-Configuring a Remote
---------------------
-The easiest way to set up a new remote is to use GitHub. When you do so,
-make sure that it is created &quot;bare&quot;, meaning no README, no .gitignore, no nothing.
-Once you do that, save your project, create a commit (if you haven&apos;t already), and
-Press Ctrl+Alt+O to push (see below).
-
-Of course, you&apos;re free to mess around with this project (ask John to add you as a
-collaborator on GitHub). The URL is https://github.com/jsenn/git-mm-test." t="3"/>
+can use this command to do so." t="3"/>
     <Type v="DataTypeString" t="3"/>
 </AttrBillboardActorTextValue>
