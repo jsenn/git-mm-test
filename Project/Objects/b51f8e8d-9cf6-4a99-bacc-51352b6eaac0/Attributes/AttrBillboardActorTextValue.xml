@@ -7,6 +7,10 @@ The git repo that stores version information is currently placed alonside the
 project (.mm file), in a directory called .mmvc. This means that each project
 needs its own parent directory to avoid collisions with other projects.
 
+The name and email used to identify you in commits can be configured in
+Application Preferences. You will be prompted for these the first time they&apos;re
+needed, if not already set.
+
 All version control commands are of the form Ctrl+Alt+&lt;key&gt;. See below for a
 description of each available command.
 
@@ -43,7 +47,7 @@ your changes will be clobbered.
 
 Push (Ctrl+Alt+O)
 -----------------
-&quot;O&quot; for &quot;Output&quot; (P is overloaded).
+&quot;O&quot; for &quot;Out&quot; (P is overloaded).
 
 Will push your most recent commits to the remote. If no remote has been configured,
 it will prompt for a URL. If your remote is GitHub (which it is if you&apos;re reading
