@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<AttrProfileVerticalCostDistribution FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Data>
+        <!--Constant: [value,,,], Uniform: [min,max,,], Normal: [min,max,mean,std], Triangular: [min,max,mode,], Exponential: [min,max,lambda]-->
+        <Type v="Uniform" t="3"/>
+        <Values v="[0.750000,1.250000]" t="2"/>
+    </Data>
+    <Type v="DataTypeDistribution" t="3"/>
+</AttrProfileVerticalCostDistribution>

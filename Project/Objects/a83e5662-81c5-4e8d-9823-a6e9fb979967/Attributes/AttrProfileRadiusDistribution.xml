@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<AttrProfileRadiusDistribution FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Data>
+        <!--Constant: [value,,,], Uniform: [min,max,,], Normal: [min,max,mean,std], Triangular: [min,max,mode,], Exponential: [min,max,lambda]-->
+        <Type v="Constant" t="3"/>
+        <Values v="[0.250000]" t="2"/>
+    </Data>
+    <Type v="DataTypeDistribution" t="3"/>
+</AttrProfileRadiusDistribution>

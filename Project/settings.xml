@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<Settings FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Attributes>
+        <AttrSettingsDebugFolder>
+            <Data v="debug" t="3"/>
+            <Type v="DataTypeString" t="3"/>
+        </AttrSettingsDebugFolder>
+        <AttrSettingsDefaultBookmark>
+            <Data v="00000000-0000-0000-0000-000000000000" t="3"/>
+            <Type v="DataTypeGlobalID" t="3"/>
+        </AttrSettingsDefaultBookmark>
+        <AttrSettingsDumpCostTrees>
+            <Data v="0" t="0"/>
+            <Type v="DataTypeBool" t="3"/>
+        </AttrSettingsDumpCostTrees>
+        <AttrSettingsDumpSurfaceMaps>
+            <Data v="0" t="0"/>
+            <Type v="DataTypeBool" t="3"/>
+        </AttrSettingsDumpSurfaceMaps>
+        <AttrSettingsFrameRate>
+            <Data v="5" t="1"/>
+            <Type v="DataTypeInt" t="3"/>
+        </AttrSettingsFrameRate>
+        <AttrSettingsPopulationMultiplier>
+            <Data v="1.000000" t="2"/>
+            <Type v="DataTypeDouble" t="3"/>
+        </AttrSettingsPopulationMultiplier>
+        <AttrSettingsProjectOrigin>
+            <Data v="[0.000000,0.000000,0.000000]" t="2"/>
+            <Type v="DataTypeVec3" t="3"/>
+        </AttrSettingsProjectOrigin>
+        <AttrSettingsProjectOriginEnabled>
+            <Data v="0" t="0"/>
+            <Type v="DataTypeBool" t="3"/>
+        </AttrSettingsProjectOriginEnabled>
+        <AttrSettingsRandomSeed>
+            <Data v="1234" t="1"/>
+            <Type v="DataTypeInt" t="3"/>
+        </AttrSettingsRandomSeed>
+        <AttrSettingsSimTimeRange>
+            <Data>
+                <BoundedEndTime v="00:15:00" t="3"/>
+                <BoundedStartTime v="00:00:00" t="3"/>
+                <TimeRangeType v="TimeRangeBounded" t="3"/>
+            </Data>
+            <Type v="DataTypeTimeRange" t="3"/>
+        </AttrSettingsSimTimeRange>
+        <AttrSettingsXSIExportVersion>
+            <Data v="" t="3"/>
+            <Type v="DataTypeString" t="3"/>
+        </AttrSettingsXSIExportVersion>
+    </Attributes>
+</Settings>
