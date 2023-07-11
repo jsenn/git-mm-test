@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<Body FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Attributes>
+        <AttrPortalGoalEdgeIndices>
+            <Data v="[0,4]" t="1"/>
+            <Type v="DataTypeVectorInt" t="3"/>
+        </AttrPortalGoalEdgeIndices>
+        <AttrPortalGoalPointPositions>
+            <Data v="[-1.245928,0.030000,-7.251585,3.354072,0.030000,-7.251585]" t="2"/>
+            <Type v="DataTypeVectorDouble" t="3"/>
+        </AttrPortalGoalPointPositions>
+    </Attributes>
+    <Geometry>
+        <Geometry0>
+            <Faces v="[0,1,2,1,3,2]" t="1"/>
+            <GeometryType v="MeshGeometry" t="3"/>
+            <Vertices v="[-1.445928,0.020000,-7.501585,-1.445928,0.020000,-7.001585,3.554072,0.020000,-7.501585,3.554072,0.020000,-7.001585]" t="2"/>
+        </Geometry0>
+    </Geometry>
+</Body>

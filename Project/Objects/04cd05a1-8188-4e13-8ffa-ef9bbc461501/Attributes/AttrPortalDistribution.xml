@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!---->
+<AttrPortalDistribution FormatVersion="1.0" ContentVersion="" RuntimeVersion="" FileName="">
+    <Data>
+        <EnumString v="DistributionAlongLine" t="3"/>
+        <EnumValue v="0" t="1"/>
+    </Data>
+    <Type v="DataTypeEnum" t="3"/>
+</AttrPortalDistribution>
