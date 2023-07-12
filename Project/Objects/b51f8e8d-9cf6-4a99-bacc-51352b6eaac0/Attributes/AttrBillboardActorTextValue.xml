@@ -75,7 +75,7 @@ this!) it will also prompt you for your username and password/access token.
 
 Log (Ctrl+Alt+L)
 ----------------
-Show a report of all commits in this repository so far (currently unimplemented).
+Show a report of the latest 5 commits in the repository.
 
 Change Remote URL (Ctrl+Alt+R)
 ------------------------------
