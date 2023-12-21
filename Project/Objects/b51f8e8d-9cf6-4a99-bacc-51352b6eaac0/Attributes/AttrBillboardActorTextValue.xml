@@ -77,6 +77,10 @@ Log (Ctrl+Alt+L)
 ----------------
 Show a report of the latest 5 commits in the repository.
 
+Blame (Ctrl+Alt+B)
+------------------
+Loosely inspired by git blame, this will prompt you to pick an object, and will then show you the last 5 commits that affected that particular object.
+
 Change Remote URL (Ctrl+Alt+R)
 ------------------------------
 If for whatever reason you need to change the currently configured remote URL, you
